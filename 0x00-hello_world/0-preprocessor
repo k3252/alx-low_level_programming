@@ -1,2 +1,2 @@
-#!/bun/bash
+#!/bin/bash
 gcc -E $CFILE >> c
