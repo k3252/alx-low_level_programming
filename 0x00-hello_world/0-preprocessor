@@ -1,0 +1,2 @@
+#!/bun/bash
+gcc -E $CFILE >> c
