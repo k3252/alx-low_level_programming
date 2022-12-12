@@ -15,7 +15,7 @@ int main(void)
 			putchar (num + '0');
 		} else
 		{
-			putchar(c)
+			putchar(c);
 				c++;
 		}
 	}
