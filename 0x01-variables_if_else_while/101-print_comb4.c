@@ -23,7 +23,7 @@ int main(void)
 						putchar(i);
 						putchar(n);
 						putchar(j);
-						if (i == 55 && j ==57)
+						if (i == 55 && j == 57)
 						{
 							break;
 						}
@@ -37,6 +37,7 @@ int main(void)
 				}
 			}
 		}
+
 	putchar('\n');
 	return (0);
 }
