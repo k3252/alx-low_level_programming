@@ -14,7 +14,7 @@ char *_strepy(char *dest, char *src)
 	{
 		*dest = *src;
 		dest++;
-		src;
+		src++;
 	}
 	*dest = '\0';
 	return (start);
