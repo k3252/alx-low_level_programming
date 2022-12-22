@@ -1,6 +1,6 @@
 #include "main.h"
 /**
- * _strcet - concatenates the string pointed to by@src to
+ * _strcat - concatenates the string pointed to by@src to
  * the end of the string pointed to @dest
  * @dest: string that will be oppended
  * @src: string to be concentrated up on
